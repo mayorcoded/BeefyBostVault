@@ -18,4 +18,4 @@ To run the project, take the following steps
 2. run `yarn` in your terminal to install all dependencies
 3. rename .env.templet to .env, add the necessary environmenta variables to the .env file
 4. run the test using `npx hardhat test` in your terminal 
-```_
+```
